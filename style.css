@@ -6,7 +6,7 @@
   height: var(--size);
   width: var(--size);
   border-radius: 50%;
-  border-color: #000;
+  border: 2px solid #000;
   transform: translate3d(
     calc(100vw * var(--cursor-x) - var(--size) / 2), 
     calc(100vh * var(--cursor-y) - var(--size) / 2), 
